@@ -1,1 +1,2 @@
-# MiniProject_DataMining
+# Studi Kasus
+Studi kasus menggunakan dataset iris adalah tentang menganalisis dan memodelkan data untuk memprediksi spesies bunga iris berdasarkan fitur-fitur morfologisnya. Misalkan kita telah mengumpulkan data mengenai sepal length, sepal width, petal length, dan petal width dari berbagai spesimen bunga iris, serta label kelas yang menunjukkan spesies masing-masing bunga iris. Dengan menggunakan dataset ini, kita dapat mengimplementasikan berbagai algoritma pembelajaran mesin untuk membuat model yang dapat memprediksi spesies bunga iris baru berdasarkan fitur-fitur morfologisnya
